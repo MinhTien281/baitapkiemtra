@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.tren {
+    display: flex;
+
+}
+.tren .hinh {
+    margin-left: 100px;  
+    margin-right: 60px;
+}
+.tren .chu {
+    padding: 30px;;
+}
+
+.tren .chu h2 {
+    padding-bottom: 10px;
+    font-family: cursive;
+}
+.tren .chu .tien {
+     line-height: 20px;
+}
+.tren .chu .bo {
+    display: flex;
+    padding-top: 30px;
+    font-family: Arial;
+}
+.tren .chu .bo .giua img {
+    width: 60%;
+}
+.tren .chu .bo .trai img {
+    width: 60%;
+}
+.tren .chu .bo .phai img {
+    width: 60%;
+}
+.tren .chu .bo .giua p {
+    padding-right: 85px;
+    padding-top: 30px;
+    text-align: center;
+}
+.tren .chu .bo .trai p{
+    text-align: center;
+    padding-right: 85px;
+    padding-top: 30px;
+}
+.tren .chu .bo .phai p {
+    text-align: center;
+    padding-right: 85px;
+    padding-top: 30px;
+}
+.duoi {
+    display: flex;
+    justify-content: space-between;
+
+}
+.duoi .right {
+    padding-top: 30px;
+    padding-left: 100px;
+}
+.duoi .left {
+    padding-top: 30px;
+    padding-right: 420px;
+}
